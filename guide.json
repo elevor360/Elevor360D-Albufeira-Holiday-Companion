@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Albufeira, Algarve",
+  "updated": "2026-11-01",
+  "intro": "Discover Albufeira and the Algarve: golden beaches, a lively Old Town, scenic cliffs, boat trips and nearby historic towns. Plan your days, save memorable visits and keep your holiday photos together on your device.",
+  "areas": [
+    {
+      "name": "Albufeira Old Town",
+      "description": "Historic streets, restaurants, cafés and lively squares near Praia dos Pescadores."
+    },
+    {
+      "name": "The Strip / Areias de São João",
+      "description": "Popular nightlife and entertainment area with bars and restaurants."
+    },
+    {
+      "name": "Oura",
+      "description": "Resort district with Praia da Oura and nearby restaurants."
+    },
+    {
+      "name": "Olhos de Água",
+      "description": "Coastal village known for its beach, restaurants and freshwater springs visible at low tide."
+    },
+    {
+      "name": "Galé",
+      "description": "Beachside area west of central Albufeira with broad sandy beaches."
+    },
+    {
+      "name": "São Rafael",
+      "description": "Scenic coves, golden cliffs and coastal walks."
+    },
+    {
+      "name": "Albufeira Marina",
+      "description": "Colourful marina with boat trips, watersports and waterfront dining."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Albufeira Old Town",
+      "description": "Explore narrow streets, viewpoints, churches and local shops."
+    },
+    {
+      "name": "Albufeira Marina",
+      "description": "Browse boat excursions, dolphin-watching tours and coastal cruises; check conditions."
+    },
+    {
+      "name": "Benagil coast boat trip",
+      "description": "See dramatic coastal rock formations; cave access is regulated and depends on sea conditions."
+    },
+    {
+      "name": "Zoomarine Algarve",
+      "description": "Marine-themed family park in Guia; check opening days and current activities."
+    },
+    {
+      "name": "Praia da Falésia cliffs",
+      "description": "Enjoy spectacular red cliffs and a long sandy beach; use marked access paths."
+    },
+    {
+      "name": "Silves",
+      "description": "Historic inland town with a castle and old streets; a popular day trip."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Walking",
+      "description": "Old Town streets can be steep and cobbled; wear suitable shoes."
+    },
+    {
+      "name": "Local buses",
+      "description": "Check current Albufeira urban and regional bus routes and timetables."
+    },
+    {
+      "name": "Taxis and ride-hailing",
+      "description": "Use licensed services and confirm pickup locations and fares."
+    },
+    {
+      "name": "Car hire",
+      "description": "Useful for exploring the Algarve; parking is limited in busy resort areas."
+    },
+    {
+      "name": "Faro Airport",
+      "description": "Main airport for Albufeira; confirm transfer options and journey times."
+    },
+    {
+      "name": "Trains",
+      "description": "Albufeira–Ferreiras station is inland from the resort; check onward connections."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 for emergencies in Portugal."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check card charges and exchange rates."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government Portugal entry requirements and travel insurance."
+    },
+    {
+      "name": "Language",
+      "description": "Portuguese is the official language; English is widely spoken in tourism areas."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow beach flags and lifeguard guidance; beware of currents and falling rocks near cliffs."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Portugal generally uses the same local time as the UK, including seasonal clock changes."
+    },
+    {
+      "name": "Sun and heat",
+      "description": "Carry water and sun protection; take care during hot summer afternoons."
+    }
+  ],
+  "links": [
+    {
+      "name": "Portugal travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/portugal"
+    },
+    {
+      "name": "Visit Algarve tourism",
+      "url": "https://www.visitalgarve.pt/"
+    },
+    {
+      "name": "Faro Airport official website",
+      "url": "https://www.aeroportofaro.pt/en/fao/home"
+    },
+    {
+      "name": "Portugal emergency number 112 (EU information)",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/112"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Albufeira local business advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Praia dos Pescadores",
+      "description": "Central Old Town beach with restaurants and facilities nearby."
+    },
+    {
+      "name": "Praia da Oura",
+      "description": "Popular resort beach east of the centre."
+    },
+    {
+      "name": "Praia da Falésia",
+      "description": "Long beach backed by colourful cliffs; check access points and tides."
+    },
+    {
+      "name": "Praia de São Rafael",
+      "description": "Picturesque beach with cliffs and rock formations."
+    },
+    {
+      "name": "Praia da Galé",
+      "description": "Wide sandy shoreline with cafés and scenic walks."
+    },
+    {
+      "name": "Praia dos Arrifes",
+      "description": "Small cove with striking rocks; limited space in busy periods."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Albufeira Old Town shops",
+      "description": "Browse souvenirs, small shops and local crafts."
+    },
+    {
+      "name": "Municipal market",
+      "description": "Explore fresh produce and local food; verify current opening times."
+    },
+    {
+      "name": "Guia shopping",
+      "description": "Explore shops and local restaurants in nearby Guia."
+    },
+    {
+      "name": "Algarve Shopping",
+      "description": "Shopping centre near Guia; check shops and transport before travelling."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Albufeira Old Town",
+      "description": "Busy bars, live entertainment and restaurants around the central streets."
+    },
+    {
+      "name": "The Strip",
+      "description": "Lively nightlife area with late-opening venues; plan safe transport."
+    },
+    {
+      "name": "Albufeira Marina",
+      "description": "Waterfront restaurants and relaxed evening walks."
+    },
+    {
+      "name": "Olhos de Água",
+      "description": "Quieter evening dining near the seafront."
+    }
+  ],
+  "family": [
+    {
+      "name": "Zoomarine Algarve",
+      "description": "Family day out near Guia; check tickets, transport and seasonal opening."
+    },
+    {
+      "name": "Beach and sandcastle day",
+      "description": "Choose a lifeguarded beach and check flag warnings."
+    },
+    {
+      "name": "Albufeira Marina boat trip",
+      "description": "Select a family-suitable cruise and check age requirements and sea conditions."
+    },
+    {
+      "name": "Mini-golf and resort activities",
+      "description": "Look for local family activities and confirm availability."
+    },
+    {
+      "name": "Family photo trail",
+      "description": "Save favourite holiday moments in the app Photo Album."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Albufeira Old Town",
+      "description": "Traditional Portuguese restaurants, seafood and international dining."
+    },
+    {
+      "name": "Olhos de Água",
+      "description": "Seafront dining and relaxed cafés."
+    },
+    {
+      "name": "Albufeira Marina",
+      "description": "Waterfront restaurants and snack stops."
+    },
+    {
+      "name": "Guia",
+      "description": "Known for piri-piri chicken restaurants."
+    },
+    {
+      "name": "Galé",
+      "description": "Beachside cafés and restaurants; confirm seasonal hours."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Silves",
+      "description": "Visit the historic castle town inland from Albufeira."
+    },
+    {
+      "name": "Lagos and Ponta da Piedade",
+      "description": "Discover coastal viewpoints and the historic centre; check transport."
+    },
+    {
+      "name": "Faro Old Town",
+      "description": "Explore the Algarve capital and historic streets."
+    },
+    {
+      "name": "Carvoeiro and Benagil coast",
+      "description": "Visit cliff viewpoints and coastal towns; follow access rules."
+    },
+    {
+      "name": "Loulé",
+      "description": "Browse the market town and traditional streets; check market days."
+    },
+    {
+      "name": "Vilamoura",
+      "description": "Explore the marina and nearby beaches."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Albufeira Old Town",
+      "description": "Albufeira Old Town, Portugal"
+    },
+    {
+      "name": "Praia dos Pescadores",
+      "description": "Praia dos Pescadores, Albufeira, Portugal"
+    },
+    {
+      "name": "Praia da Oura",
+      "description": "Praia da Oura, Albufeira, Portugal"
+    },
+    {
+      "name": "Praia da Falésia",
+      "description": "Praia da Falésia, Albufeira, Portugal"
+    },
+    {
+      "name": "Praia de São Rafael",
+      "description": "Praia de São Rafael, Albufeira, Portugal"
+    },
+    {
+      "name": "Albufeira Marina",
+      "description": "Marina de Albufeira, Portugal"
+    },
+    {
+      "name": "Olhos de Água",
+      "description": "Olhos de Água, Albufeira, Portugal"
+    },
+    {
+      "name": "Guia",
+      "description": "Guia, Albufeira, Portugal"
+    }
+  ]
+}
